@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Amir and I'm a DEV, I specialize in Python.</h2>
+<h2 align="left">Hi 👋!</h2>
 
 ###
 
